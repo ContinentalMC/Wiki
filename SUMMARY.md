@@ -2,8 +2,7 @@
 
 ## 👉 Contributing
 
-* [❌ readme](README.md)
-* [⚒ How to Contribute](contributing/how-to-contribute/README.md)
+* [⚒ How to Contribute](README.md)
   * [🖥 GitHub](contributing/how-to-contribute/github.md)
   * [📄 GitBook](contributing/how-to-contribute/gitbook.md)
 
@@ -17,10 +16,10 @@
 
 ## 📖 Crafting Recipes
 
-* [🔷 Advanced Crafting Table](crafting-recipes/advanced-crafting-table.md)
-* [Materials](crafting-recipes/materials/README.md)
-  * [Mega Rock](crafting-recipes/materials/mega-rock.md)
-* [Weapons](crafting-recipes/weapons.md)
-* [Tools](crafting-recipes/tools.md)
-* [Armor](crafting-recipes/armor.md)
-* [Lute](crafting-recipes/lute.md)
+* [🔷 Advanced Crafting Table](advanced-crafting-table.md)
+* [Materials](materials/README.md)
+  * [Mega Rock](materials/mega-rock.md)
+* [Weapons](weapons.md)
+* [Tools](tools.md)
+* [Armor](armor.md)
+* [Lute](lute.md)
