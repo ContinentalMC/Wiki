@@ -1,3 +1,0 @@
-# ⚡ Quick-Start Guide
-
-Test
