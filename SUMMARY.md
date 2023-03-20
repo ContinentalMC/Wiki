@@ -23,3 +23,17 @@
 * [Tools](tools.md)
 * [Armor](armor.md)
 * [Lute](lute.md)
+
+## 📎 Important LInks
+
+* [Discord](important-links/discord.md)
+* [Map](important-links/map.md)
+
+## Community-Content
+
+* [Nations](community-content/nations/README.md)
+  * [List of Nations](community-content/nations/list-of-nations.md)
+* [Towns](community-content/towns/README.md)
+  * [List of Towns](community-content/towns/list-of-towns.md)
+* [Players](community-content/players.md)
+* [Staff](community-content/staff.md)
