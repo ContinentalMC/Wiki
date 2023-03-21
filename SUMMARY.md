@@ -9,10 +9,15 @@
 ## 📚 Guides
 
 * [⚡ Quick-Start Guide](guides/quick-start-guide.md)
-
-***
-
-* [⛏ Getting Started](getting-started.md)
+* [📘 Getting Started](guides/getting-started.md)
+* [✈ Vehicles](guides/vehicles.md)
+* [🏘 Towns](guides/towns/README.md)
+  * [🛡 Neutrality](guides/towns/neutrality.md)
+  * [⚔ SeigeWar](guides/towns/seigewar.md)
+  * [🏢 Nations](guides/towns/nations.md)
+* [🔓 Block Protection](guides/block-protection.md)
+* [💰 Economy](guides/economy.md)
+* [⛏ Ore Distribution](guides/ore-distribution.md)
 
 ## 📖 Crafting Recipes
 
