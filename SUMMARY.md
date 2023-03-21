@@ -18,6 +18,7 @@
 * [🔓 Block Protection](guides/block-protection.md)
 * [💰 Economy](guides/economy.md)
 * [⛏ Ore Distribution](guides/ore-distribution.md)
+* [🔦 Spawners](guides/spawners.md)
 
 ## 📖 Crafting Recipes
 
