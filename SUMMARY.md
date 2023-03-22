@@ -39,6 +39,7 @@
 
 * [Why is the Nether Disabled?](faq/why-is-the-nether-disabled.md)
 * [Can my Idea/Suggestion get added?](faq/can-my-idea-suggestion-get-added.md)
+* [How/Where do I report bugs/issues?](faq/how-where-do-i-report-bugs-issues.md)
 
 ## Community-Content
 
