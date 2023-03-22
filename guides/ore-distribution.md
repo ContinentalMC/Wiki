@@ -1,7 +1,7 @@
 # ⛏ Ore Distribution
 
 {% hint style="danger" %}
-This page is for **ADDITIONAL** ore distribution, You can find a majority of ores almost **EVERYWHERE** around the world (Not including Ancient Debris)
+This page is for **ADDITIONAL** ore distribution, You can find a majority of ores almost **EVERYWHERE** around the world (Not including Ancient Debris or Quartz)
 {% endhint %}
 
 {% hint style="info" %}
