@@ -35,6 +35,11 @@
 * [Discord](important-links/discord.md)
 * [Map](important-links/map.md)
 
+## ❓ Frequently Asked Questions <a href="#faq" id="faq"></a>
+
+* [Why is the Nether Disabled?](faq/why-is-the-nether-disabled.md)
+* [Can my Idea/Suggestion get added?](faq/can-my-idea-suggestion-get-added.md)
+
 ## Community-Content
 
 * [Nations](community-content/nations/README.md)
