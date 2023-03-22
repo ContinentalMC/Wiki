@@ -14,7 +14,7 @@
 * [🏘 Towns](guides/towns/README.md)
   * [🛡 Neutrality](guides/towns/neutrality.md)
   * [⚔ SeigeWar](guides/towns/seigewar.md)
-  * [🏢 Nations](guides/towns/nations.md)
+  * [👑 Nations](guides/towns/nations.md)
 * [🔓 Block Protection](guides/block-protection.md)
 * [💰 Economy](guides/economy.md)
 * [⛏ Ore Distribution](guides/ore-distribution.md)
@@ -42,7 +42,7 @@
 * [Can my Idea/Suggestion get added?](faq/can-my-idea-suggestion-get-added.md)
 * [How/Where do I report bugs/issues?](faq/how-where-do-i-report-bugs-issues.md)
 
-## Community-Content
+## 🧑🤝🧑 Community-Content
 
 * [Nations](community-content/nations/README.md)
   * [List of Nations](community-content/nations/list-of-nations.md)
