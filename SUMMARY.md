@@ -34,6 +34,7 @@
 
 * [Discord](important-links/discord.md)
 * [Map](important-links/map.md)
+* [GitHub](important-links/github.md)
 
 ## ❓ Frequently Asked Questions <a href="#faq" id="faq"></a>
 
