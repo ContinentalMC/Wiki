@@ -36,6 +36,7 @@
 * [Map](important-links/map.md)
 * [GitHub](important-links/github.md)
 * [Voting sites](important-links/voting-sites.md)
+* [Analytics](important-links/analytics.md)
 
 ## ❓ Frequently Asked Questions <a href="#faq" id="faq"></a>
 
@@ -45,6 +46,7 @@
 
 ## 🧑🤝🧑 Community-Content
 
+* [Historical Events](community-content/historical-events.md)
 * [Nations](community-content/nations/README.md)
   * [List of Nations](community-content/nations/list-of-nations.md)
 * [Towns](community-content/towns/README.md)
