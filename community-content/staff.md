@@ -10,7 +10,7 @@ description: A list of current/former staff members and their rank
 
 <summary>Ashparty [Owner]</summary>
 
-
+Rank Timeline: Player --> Owner
 
 </details>
 
@@ -18,7 +18,7 @@ description: A list of current/former staff members and their rank
 
 <summary>PekoIsDaMaster [Co-Owner]</summary>
 
-
+Rank Timeline: Player --> Admin --> Co-Owner/Owner
 
 </details>
 
@@ -26,7 +26,7 @@ description: A list of current/former staff members and their rank
 
 <summary>12Redstones [Admin]</summary>
 
-
+Rank Timeline: Player --> Moderator --> Admin
 
 </details>
 
@@ -34,7 +34,7 @@ description: A list of current/former staff members and their rank
 
 <summary>Inspectahpop [Admin]</summary>
 
-
+Rank Timeline: Player --> Admin
 
 </details>
 
@@ -42,7 +42,7 @@ description: A list of current/former staff members and their rank
 
 <summary>Yopal [Developer]</summary>
 
-
+Rank Timeline: Player --> Assistant --> Developer
 
 </details>
 
@@ -50,7 +50,7 @@ description: A list of current/former staff members and their rank
 
 <summary>NepEend [Moderator]</summary>
 
-
+Rank Timeline: Player --> Assistant --> Moderator
 
 </details>
 
@@ -58,7 +58,7 @@ description: A list of current/former staff members and their rank
 
 <summary>Phantomvt14 [Assistant]</summary>
 
-
+Rank Timeline: Player --> Assistant
 
 </details>
 
