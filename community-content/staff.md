@@ -4,37 +4,43 @@ description: A list of current/former staff members and their rank
 
 # Staff
 
-
-
 <details>
 
-<summary>Ashparty [Owner]</summary>
+<summary>Ash [Owner]</summary>
 
-Rank Timeline: Player --> Owner
+## Rank Timeline: Player --> Owner
+
+Username: Ashparty, Altparty[^1]
 
 </details>
 
 <details>
 
-<summary>PekoIsDaMaster [Co-Owner]</summary>
+<summary>Peko [Co-Owner]</summary>
 
-Rank Timeline: Player --> Admin --> Co-Owner/Owner
+## Rank Timeline: Player --> Admin --> Co-Owner/Owner
 
-</details>
-
-<details>
-
-<summary>12Redstones [Admin]</summary>
-
-Rank Timeline: Player --> Moderator --> Admin
+Username: PekoIsDaMaster, [PukoPotPie ](#user-content-fn-2)[^2]
 
 </details>
 
 <details>
 
-<summary>Inspectahpop [Admin]</summary>
+<summary>Redstones [Admin]</summary>
 
-Rank Timeline: Player --> Admin
+## Rank Timeline: Player --> Moderator --> Admin
+
+Username: 12Redstones
+
+</details>
+
+<details>
+
+<summary>Pop/Inspectah [Admin]</summary>
+
+## Rank Timeline: Player --> Admin
+
+Username: Inspectahpop
 
 </details>
 
@@ -42,23 +48,29 @@ Rank Timeline: Player --> Admin
 
 <summary>Yopal [Developer]</summary>
 
-Rank Timeline: Player --> Assistant --> Developer
+## Rank Timeline: Player --> Assistant --> Developer
+
+Username: Yopal, YopalWantRice[^3]
 
 </details>
 
 <details>
 
-<summary>NepEend [Moderator]</summary>
+<summary>Taylor [Moderator]</summary>
 
-Rank Timeline: Player --> Assistant --> Moderator
+## Rank Timeline: Player --> Assistant --> Moderator
+
+Username: NepEend (Used to be TaylorPrime001)
 
 </details>
 
 <details>
 
-<summary>Phantomvt14 [Assistant]</summary>
+<summary>Phantom [Assistant]</summary>
 
-Rank Timeline: Player --> Assistant
+## Rank Timeline: Player --> Assistant
+
+Username: Phantomvt14
 
 </details>
 
@@ -66,3 +78,10 @@ Rank Timeline: Player --> Assistant
 Looking for in-game history about these staff members? Check out the [players.md](players.md "mention") page!
 {% endhint %}
 
+
+
+[^1]: Alternate Account
+
+[^2]: Alternative Account
+
+[^3]: Alternate Account
