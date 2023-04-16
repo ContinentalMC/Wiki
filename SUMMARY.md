@@ -8,6 +8,7 @@
 
 ## 📚 Guides
 
+* [❔ Rules](guides/rules.md)
 * [⚡ Quick-Start Guide](guides/quick-start-guide.md)
 * [📘 Getting Started](guides/getting-started.md)
 * [✈ Vehicles](guides/vehicles.md)
