@@ -7,6 +7,7 @@
   * Not all advertisement is banned, but for "outside" adverts you will have to contact the server owner for partnership rules. Advertisements from regular players can lead to a mute.
   * Attempting to advertise other servers without partnership can lead to a mute, If a server comes up in general conversation it is alright to talk about it, However please try to avoid advertising other servers.
 * Please try to keep conversations in chat civil, try to make all members feel welcome!
+* While swearing is allowed, please avoid swearing excessively in all chats
 * Try to avoid speaking of controversial or offensive topics, If you would like to talk about these things, please talk about them through /msg or similar commands with players that are comfortable talking about these subjects. However, You are not permitted to break other rules through private messages.
 * Do not ask other players for their personal information or dox others on the server.
 * DDOS-Threats are not tolerated, and will lead to an instant ban.
