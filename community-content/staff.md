@@ -74,6 +74,16 @@ Username: Phantomvt14
 
 </details>
 
+<details>
+
+<summary>KnowItAll [Assistant]</summary>
+
+## Rank Timeline: Player --> Assistant
+
+Username: KnowItAll247
+
+</details>
+
 {% hint style="info" %}
 Looking for in-game history about these staff members? Check out the [players.md](players.md "mention") page!
 {% endhint %}
