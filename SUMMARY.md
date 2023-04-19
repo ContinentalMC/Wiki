@@ -5,6 +5,7 @@
 * [⚒ How to Contribute](README.md)
   * [🖥 GitHub](contributing/how-to-contribute/github.md)
   * [📄 GitBook](contributing/how-to-contribute/gitbook.md)
+  * [✏ Contributors](contributing/how-to-contribute/contributors.md)
 
 ## 📚 Guides
 
