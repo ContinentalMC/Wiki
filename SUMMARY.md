@@ -18,7 +18,7 @@
   * [👑 Nations](guides/towns/nations.md)
 * [🔓 Block Protection](guides/block-protection.md)
 * [💰 Economy](guides/economy.md)
-* [⛏ Ore Distribution](guides/ore-distribution.md)
+* [⛏ Ore Distribution](guides/ores.md)
 * [🔦 Spawners](guides/spawners.md)
 
 ## 📖 Crafting Recipes
@@ -45,6 +45,7 @@
 * [Can my Idea/Suggestion get added?](faq/can-my-idea-suggestion-get-added.md)
 * [How/Where do I report bugs/issues?](faq/how-where-do-i-report-bugs-issues.md)
 * [What are all the enchantments?](faq/what-are-all-the-enchantments.md)
+* [How do I get Netherite?](faq/netherite.md)
 
 ## 🧑🤝🧑 Community-Content
 
