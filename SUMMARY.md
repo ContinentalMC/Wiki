@@ -9,7 +9,8 @@
 
 ## 📚 Guides
 
-* [❔ Rules](guides/rules.md)
+* [❔ Rules](guides/rules/README.md)
+  * [Allowed Client Modifications](guides/rules/allowed-client-modifications.md)
 * [⚡ Quick-Start Guide](guides/quick-start-guide.md)
 * [📘 Getting Started](guides/getting-started.md)
 * [✈ Vehicles](guides/vehicles.md)
@@ -21,6 +22,7 @@
 * [💰 Economy](guides/economy.md)
 * [⛏ Ore Distribution](guides/ores.md)
 * [🔦 Spawners](guides/spawners.md)
+* [🗡 Dungeons](guides/dungeons.md)
 
 ## 📖 Crafting Recipes
 
