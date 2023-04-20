@@ -9,7 +9,7 @@
 
 ## 📚 Guides
 
-* [❔ Rules](guides/rules/README.md)
+* [❔ Rules](guides/rules.md)
   * [Allowed Client Modifications](guides/rules/allowed-client-modifications.md)
 * [⚡ Quick-Start Guide](guides/quick-start-guide.md)
 * [📘 Getting Started](guides/getting-started.md)
@@ -24,15 +24,15 @@
 * [🔦 Spawners](guides/spawners.md)
 * [🗡 Dungeons](guides/dungeons.md)
 
-## 📖 Crafting Recipes
+## 📖 Items
 
-* [🔷 Advanced Crafting Table](advanced-crafting-table.md)
-* [Materials](materials/README.md)
-  * [Mega Rock](materials/mega-rock.md)
-* [Weapons](weapons.md)
-* [Tools](tools.md)
-* [Armor](armor.md)
-* [Lute](lute.md)
+* [🔷 Advanced Crafting Table](items/advanced-crafting-table.md)
+* [Materials](items/materials/README.md)
+  * [Mega Rock](items/materials/mega-rock.md)
+* [Weapons](items/weapons.md)
+* [Tools](items/tools.md)
+* [Armor](items/armor.md)
+* [Lute](items/lute.md)
 
 ## 📎 Important LInks
 
