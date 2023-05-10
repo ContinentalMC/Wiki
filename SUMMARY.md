@@ -16,7 +16,7 @@
 * [✈ Vehicles](guides/vehicles.md)
 * [🏘 Towns](guides/towns/README.md)
   * [🛡 Neutrality](guides/towns/neutrality.md)
-  * [⚔ SeigeWar](guides/towns/seigewar.md)
+  * [⚔ EventWar](guides/towns/eventwar.md)
   * [👑 Nations](guides/towns/nations.md)
 * [🔓 Block Protection](guides/block-protection.md)
 * [💰 Economy](guides/economy.md)

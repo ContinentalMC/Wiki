@@ -38,6 +38,12 @@ Click on each point above to see how they work!
 
 On our server, towns are one of the major features in the server. Towns are used for claiming land, Wars, and More! Once you find a suitable location for a base, you can create a town using `/t new [Town Name]`. Make sure you replace `[Town Name]` With what you want to call your new home! Afterwards, claim land by doing `/t claim` in the chunks next to your town _(You can view chunk borders by press "F3" and "G" at the same time)_
 
+{% hint style="warning" %}
+Make sure to deposit money into your town bank! You can do this by doing `/t deposit [amount]` \
+\
+Not depositing money can lead to your town being deleted! Make sure you have enough money in the town bank!
+{% endhint %}
+
 ### Important Town Commands
 
 * /t invite \[Player]
