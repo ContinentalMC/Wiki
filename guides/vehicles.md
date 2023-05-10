@@ -40,7 +40,7 @@ Refueling: Shift (Crouch) + Left click your **PLACED** vehicle to open a menu wh
 Right click: Mount\
 Shift (Crouch): Dismount\
 Right-click (While in plane): Open Storage\
-Right-Click (Holding TNT) (While in plane): Drop TNT
+Right-click (Holding TNT) (While in plane): Drop TNT
 
 
 
