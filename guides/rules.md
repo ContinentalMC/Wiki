@@ -26,7 +26,7 @@
 * Abusing town claims in any way is **NOT** allowed
 * Using alternative accounts to gain more claim land is **NOT** allowed
 
-## ⚔️ Sieging/PvP Rules
+## ⚔️ War/PvP Rules
 
 * Do not block players off from their graves (This is not applicable where two towns are in a siege or towns that are currently enemies)
 * Do not attempt to bypass player PvP protection (Ex. Using TNT or Lava buckets on PvP-Protected players)
