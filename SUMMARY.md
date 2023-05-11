@@ -29,10 +29,15 @@
 * [🔷 Advanced Crafting Table](items/advanced-crafting-table.md)
 * [Materials](items/materials/README.md)
   * [Mega Rock](items/materials/mega-rock.md)
-* [Weapons](items/weapons.md)
+* [Weapons](items/weapons/README.md)
+  * [Shulker Staff](items/weapons/shulker-staff.md)
+  * [Flaming Sword](items/weapons/flaming-sword.md)
+* [Armor](items/armor/README.md)
+  * [Mossy Armor](items/armor/mossy-armor.md)
 * [Tools](items/tools.md)
-* [Armor](items/armor.md)
-* [Lute](items/lute.md)
+* [Imbuements / Gemstones](items/imbuements-gemstones/README.md)
+  * [Mossy Imbuement](items/imbuements-gemstones/mossy-imbuement.md)
+* [Enchantments](items/enchantments.md)
 
 ## 📎 Important LInks
 
