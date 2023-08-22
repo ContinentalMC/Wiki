@@ -1,4 +1,4 @@
-# Allowed Client Side Modifications
+# Allowed Client Modifications
 
 **At Continental MC, you have the option to use some client-side mods to improve your experience! Here are a few examples:**
 
