@@ -24,4 +24,4 @@
 >
 > Litematica is a mod that allows you to overlay a build onto the world and provides an outline to guide your construction. This is especially useful for transferring creative world builds to CMC.
 
-**These are just a few mods we recommend. If there's another mod not listed here that you want to use, feel free to ask if it's allowed by creating a ticket in the Discord server or by using the `@oncallstaff [question]` command in the game!**
+**These are just a few mods we recommend. If there's another mod not listed here that you want to use, feel free to ask if it's allowed by creating a ticket in the Discord server or by using the `@oncallstaff [question]` in the gamechat!**
