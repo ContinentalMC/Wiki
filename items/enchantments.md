@@ -1,5 +1,5 @@
 # Enchantment List
-
+[source](https://github.com/nulli0n/ExcellentEnchants-spigot/wiki/Enchantments)
 ## Armor Enchantments
 
 | Name               | Description                                                     | Applies To | Conflicts With  |
@@ -53,3 +53,6 @@
 | Soulbound          | Prevents item from being dropped upon death.              | All Items          | Curse of Vanishing   |
 | Curse of Breaking  | Chance to take extra item durability points.             | All Items          | Unbreaking           |
 | ...                | ...                                                         | ...                | ...                  |
+
+
+
