@@ -57,6 +57,32 @@ Be sure to have enough space to take off with your plane, it's recommended to cr
 {% endtab %}
 {% endtabs %}
 
+# WIP↓
+
+{% tabs %}
+{% tab title="Planes" %}
+![Iron Plane](../.gitbook/assets/vehicles/Iron-Plane.png)
+![Gold Plane](../.gitbook/assets/vehicles/goldplane.png)
+![Diamond Plane](../.gitbook/assets/vehicles/Diamond-Plane.png)
+{% endtab %}
+
+{% tab title="Rafts" %}
+![Image Alt Text](../images/image1.jpg)
+{% endtab %}
+
+{% tab title="Submarines" %}
+![Image Alt Text](../images/image1.jpg)
+{% endtab %}
+
+{% tab title="Misc" %}
+![Image Alt Text](../images/image1.jpg)
+{% endtab %}
+
+{% endtabs %}
+
+
+
+
 
 
 
