@@ -25,23 +25,22 @@ Refueling: Shift (Crouch) + Left click your **PLACED** vehicle to open a menu wh
 
 </details>
 
-## Planes
+<details>
+
+<summary>Obtaining Vehicles</summary>
+
+Do /shop and go to the Vehicles Tab. 
+
+</details>
+
+## Controls
 
 {% tabs %}
-{% tab title="Description" %}
-## Tiers: 3
-
-#### Passenger Capacity: 2
-
-#### Storage: Yes
-{% endtab %}
-
-{% tab title="Controls" %}
+{% tab title="Planes" %}
 Right click: Mount\
 Shift (Crouch): Dismount\
 Right-click (While in plane): Open Storage\
 Right-click (Holding TNT) (While in plane): Drop TNT
-
 
 
 W: Accelerate\
@@ -55,9 +54,32 @@ Camera Up/Down: Ascend/Descend
 Be sure to have enough space to take off with your plane, it's recommended to create a runway for your plane.
 {% endhint %}
 {% endtab %}
+
+
+{% tab title="Submarines" %}
+W: Go Forward\
+S: Stop\
+A/D: Turn Left/Right\
+Space(Hold): Go Up\
+Space(release): Go Down\
+{% endtab %}
+
+
+{% tab title="Train" %}
+#### must be placed on rail
+W: Go Forward\
+S: Stop/Backwards\
+{% endtab %}
+
+
+{% tab title="Everything Else" %}
+W: Go Forward\
+S: Stop\
+A/D: Turn Left/Right\
+{% endtab %}
 {% endtabs %}
 
-# WIP↓
+# Vehicle Catalog
 
 {% tabs %}
 {% tab title="Planes" %}
@@ -67,15 +89,20 @@ Be sure to have enough space to take off with your plane, it's recommended to cr
 {% endtab %}
 
 {% tab title="Rafts" %}
-![Image Alt Text](../images/image1.jpg)
+![Old Raft](../.gitbook/assets/vehicles/OldRaft.png)
+![Nether Raft](../.gitbook/assets/vehicles/NetherRaft.png)
+![Pirate Raft](../.gitbook/assets/vehicles/PirateRaft.png)
 {% endtab %}
 
 {% tab title="Submarines" %}
-![Image Alt Text](../images/image1.jpg)
+![Slow Submarine](../.gitbook/assets/vehicles/SloSub.png)
+![Average Submarine](../.gitbook/assets/vehicles/AvrSub.png)
 {% endtab %}
 
 {% tab title="Misc" %}
-![Image Alt Text](../images/image1.jpg)
+![Train (Slow, Regular, and Fast) ](../.gitbook/assets/vehicles/train.png)
+![Golden Drill](../.gitbook/assets/vehicles/Drill.png)
+![Hover Bike](../.gitbook/assets/vehicles/Hoverbike.png)
 {% endtab %}
 
 {% endtabs %}
