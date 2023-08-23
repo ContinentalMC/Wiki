@@ -61,21 +61,21 @@ W: Go Forward\
 S: Stop\
 A/D: Turn Left/Right\
 Space(Hold): Go Up\
-Space(release): Go Down\
+Space(release): Go Down
 {% endtab %}
 
 
 {% tab title="Train" %}
 #### must be placed on rail
 W: Go Forward\
-S: Stop/Backwards\
+S: Stop/Backwards
 {% endtab %}
 
 
 {% tab title="Everything Else" %}
 W: Go Forward\
 S: Stop\
-A/D: Turn Left/Right\
+A/D: Turn Left/Right
 {% endtab %}
 {% endtabs %}
 
@@ -100,7 +100,7 @@ A/D: Turn Left/Right\
 {% endtab %}
 
 {% tab title="Misc" %}
-![Train (Slow, Regular, and Fast) ](../.gitbook/assets/vehicles/train.png)
+![Train (Slow, Regular, and Fast) ](../.gitbook/assets/vehicles/Train.png)
 ![Golden Drill](../.gitbook/assets/vehicles/Drill.png)
 ![Hover Bike](../.gitbook/assets/vehicles/Hoverbike.png)
 {% endtab %}
