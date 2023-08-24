@@ -8,7 +8,5 @@ While the nether is disabled, Ancient Debris spawns in certain locations around 
 
 &#x20;
 
-{% hint style="info" %}
 We have a custom recipe!\
-![](<..gitbook/assets/smithingupgrade.png>)
-{% endhint %}
+![New Recipe](<..gitbook/assets/smithingupgrade.png>)
