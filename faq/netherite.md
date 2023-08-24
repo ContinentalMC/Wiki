@@ -7,6 +7,7 @@ While the nether is disabled, Ancient Debris spawns in certain locations around 
 ### How do I get the Smithing Upgrade? (1.20.1)
 
 &#x20;
-
+{% hint style="info" %}
 We have a custom recipe!\
-![New Recipe](<../.gitbook/assets/smithingupgrade.png)
+![](<../.gitbook/assets/smithingupgrade.png)
+{% endhint %}
