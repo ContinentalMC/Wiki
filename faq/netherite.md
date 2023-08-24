@@ -9,4 +9,4 @@ While the nether is disabled, Ancient Debris spawns in certain locations around 
 &#x20;
 
 We have a custom recipe!\
-![New Recipe](<..gitbook/assets/smithingupgrade.png>)
+![New Recipe](<../.gitbook/assets/smithingupgrade.png)
