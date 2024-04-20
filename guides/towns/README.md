@@ -1,3 +1,0 @@
-# 🏘 Towns
-
-COMING SOON

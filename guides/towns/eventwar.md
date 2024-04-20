@@ -1,3 +1,0 @@
-# ⚔ SeigeWar
-
-COMING SOON

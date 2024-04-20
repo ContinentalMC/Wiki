@@ -1,3 +1,0 @@
-# 🔓 Block Protection
-
-COMING SOON

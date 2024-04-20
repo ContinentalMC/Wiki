@@ -1,3 +1,0 @@
-# 👑 Nations
-
-COMING SOON
