@@ -1,2 +1,0 @@
-# Shulker Staff
-
