@@ -2,7 +2,7 @@
 title: Custom Items
 description: 
 published: true
-date: 2024-05-30T19:28:12.884Z
+date: 2024-05-30T19:29:29.357Z
 tags: survival, recipes
 editor: markdown
 dateCreated: 2024-05-15T05:04:49.824Z
@@ -34,7 +34,7 @@ dateCreated: 2024-05-15T05:04:49.824Z
 
 ![](/wheelrecipe.png)
 
-  
+
   
  
 
@@ -49,3 +49,9 @@ dateCreated: 2024-05-15T05:04:49.824Z
 # Hammer
 
 ![](/hammerrecipe.png)
+
+
+# Tabs {.tabset}
+## First Tab
+
+Tge furbess crab
